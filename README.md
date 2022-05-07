@@ -10,8 +10,9 @@ Implemented a NN from scratch using the Numpy library.
 ### Softmax
 
 ## Loss Function Employed: Cross Entropy Loss
+### Optimization Using SGD
 
-### Hyper-Parmas: Epochs, Layer sizes, Activation Function Used
+### Hyper-Parmas: Epochs, Layer sizes, Activation Function Used, Batch Size, Learning Rate
 
 Comparisons also made with SkLearn's NN, and lossed and testing accuracies are compared
 
